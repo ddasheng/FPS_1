@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{852F9D5E-4BD3-DC71-F704-B0BC5B0BCD0C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPS_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
